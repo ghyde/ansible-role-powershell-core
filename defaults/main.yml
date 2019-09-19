@@ -1,0 +1,4 @@
+---
+powershell_core_dependencies:
+  - compat-openssl10
+...

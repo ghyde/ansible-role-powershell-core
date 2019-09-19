@@ -1,0 +1,17 @@
+galaxy_info:
+  role_name: powershell_core
+  author: Garrett Hyde
+  description: Install PowerShell Core on Fedora
+  issue_tracker_url: https://github.com/ghyde/ansible-role-powershell-core/issues
+  license: MIT
+  min_ansible_version: 2.5
+  platforms:
+  - name: Fedora
+    versions:
+    - 28
+    - 29
+    - 30
+  galaxy_tags:
+   - fedora
+   - powershell
+...
